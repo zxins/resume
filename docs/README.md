@@ -1,5 +1,4 @@
 ## 个人信息  
----
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jmhgqx3xj302202r0sy.jpg)
 * 朱鑫 / 男 / 1995
 * 大专 / 软件技术
@@ -10,13 +9,11 @@
 * GitHub：<https://github.com/zxins>
 
 ## 工作期望
----
 * 期望职位：Python Web后端、爬虫
 * 期望薪资：税前15K ~ 20K，面议
 * 期望城市：北京  
 
 ## 技能列表
----
 * 2年Python开发经验(web后端和爬虫)，1年iOS移动端开发经验
 * 熟悉Flask框架，了解Django框架，熟悉领域驱动设计
 * 熟悉Scrapy爬虫框架
@@ -30,7 +27,6 @@
 
 
 ## 工作经历  
----
 * ### 北京银通亿汇科技有限公司(TransferEasy Inc.)(2017.08 ~ 2019.09)  
 	- #### TransferEasy Business Solution -- topen
 	&emsp;&emsp;TransferEasy Business Solution 可以为金融机构和企业客户提供海外虚拟账 户设立、外汇兑换交易、账单代收、资金代付等一站式资金管理和清结算服务。
