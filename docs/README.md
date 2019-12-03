@@ -1,6 +1,6 @@
 ## 个人信息  
 ---
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9iggekbqwj301x02sglv.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jmhgqx3xj302202r0sy.jpg)
 * 朱鑫 / 男 / 1995
 * 大专 / 软件技术
 * 工作年限：3年 - Python - iOS
