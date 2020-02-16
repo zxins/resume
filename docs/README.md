@@ -15,16 +15,15 @@
 * 期望城市：北京  
 
 ## 技能列表
-* 2年Python开发经验(web后端和爬虫)，1年iOS移动端开发经验
-* 熟悉Flask框架，了解Django框架，熟悉领域驱动设计
-* 熟悉Scrapy爬虫框架
-* 熟练使用Celery处理异步任务
+* 3年以上开发经验(Python、iOS)
+* 熟悉常用的Python Web框架(如Flask、Django)，熟悉领域驱动设计
+* 熟悉Scrapy爬虫框架，有企业爬虫项目经验
 * 熟练运用MySQL、Redis、MongoDB等
 * 熟练运用Linux基础命令、Nginx、Supervisor等
-* 熟悉Gunicorn、genvent
-* 熟悉git代码管理，有良好的代码习惯，遵守pylint和pep8规范
-* 了解大并发、分布式部署
-
+* 熟悉Gunicorn、genvent、Celery等
+* 熟悉git代码管理，有良好的代码风格，遵守pep8规范
+* 了解微信小程序开发，有上线个人开发者小程序
+* 了解docker的基本使用
 
 
 ## 工作经历  
