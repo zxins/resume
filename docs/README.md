@@ -5,7 +5,7 @@
 * 工作年限：3年 - Python - iOS
 * 手机：17701336952
 * 微信：a624042309
-* Email：<a624042309@163.com>
+* Email：<zhuxin01@aliyun.com>
 * GitHub：<https://github.com/zxins>
 * 在线简历: <https://zxins.github.io/resume/docs>
 
