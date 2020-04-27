@@ -2,7 +2,7 @@
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jmhgqx3xj302202r0sy.jpg)
 * 朱鑫 / 男 / 1995
 * 大专 / 软件技术
-* 工作年限：3年 - Python - iOS
+* 工作年限：4年 - Python - iOS
 * 手机：17701336952
 * 微信：a624042309
 * Email：<zhuxin01@aliyun.com>
@@ -12,7 +12,7 @@
 ## 工作期望
 * 期望职位：Python Web后端、爬虫
 * 期望薪资：面议
-* 期望城市：徐州 
+ 
 
 ## 技能列表
 * 3年以上开发经验(Python、iOS)
