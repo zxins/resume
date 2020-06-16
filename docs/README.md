@@ -1,10 +1,9 @@
 ## 个人信息  
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jmhgqx3xj302202r0sy.jpg)
 * 朱鑫 / 男 / 1995
-* 大专 / 软件技术
+* 大专 / 软件技术 / 河南牧业经济学院
 * 工作年限：4年 - Python - iOS
-* 手机：17701336952
-* 微信：a624042309
+* 手机/微信：17701336952
 * Email：<zhuxin01@aliyun.com>
 * GitHub：<https://github.com/zxins>
 * 在线简历: <https://zxins.github.io/resume/docs>
