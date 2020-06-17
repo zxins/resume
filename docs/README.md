@@ -19,7 +19,7 @@
 * #### 北京银通易汇科技有限公司(TransferEasy Inc.)(2017.08 ~ 2019.09)  
 	- ##### TransferEasy Business Solution -- topen
 	&emsp;&emsp;TransferEasy Business Solution 可以为金融机构和企业客户提供海外虚拟账户设立、外汇兑换交易、账单代收、资金代付等一站式资金管理和清结算服务。
-	我在此项目中主要负责其核心系统topen的开发与维护工作，参与核心业务流程讨论，提出建议明确开发需求，协调处理各端开发任务。
+	我在此项目中主要负责其端核心系统topen的开发工作，包含数据库设计、接口对接。
 
 	- ##### BasaltMatrix -- goldmine
 	&emsp;&emsp;BasaltMatrix 为银行、券商、三方支付、保险等各类金融机构提供反洗钱及风险管理智能系统，严格遵循全球各地区金融业监管要求和标准，全面防范洗钱、恐怖募资等金融犯罪行为带来的风险。我在此项目中主要负责爬虫项目goldmine的开发、维护工作，负责Spider编写、IP代理池维护、数据清洗等工作。
