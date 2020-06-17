@@ -24,10 +24,9 @@
 	- #### BasaltMatrix -- goldmine
 	&emsp;&emsp;BasaltMatrix 为银行、券商、三方支付、保险等各类金融机构提供反洗钱及风险管理智能系统，严格遵循全球各地区金融业监管要求和标准，全面防范洗钱、恐怖募资等金融犯罪行为带来的风险。我在此项目中主要负责爬虫项目goldmine的开发、维护工作，负责Spider编写、IP代理池维护、数据清洗等工作。
 	- #### 其他项目
-		* get_rate：汇率爬虫 & API服务, requests爬虫脚本、Flask框架、MongoDB
-		* amazon_clear：亚马逊商城API对接，处理亚马逊清结算任务
-		* CalenderRpc：为其他语言子系统提供节假日相关服务，使用Flask-RPC实现远程方法调用
-		* tmonitor: 辅助监控、管理服务器的脚本集合
+	* get_rate：汇率爬虫 & API服务, requests爬虫脚本、Flask框架、MongoDB
+	* amazon_clear：亚马逊商城API对接，处理亚马逊清结算任务
+	* tmonitor: 定时任务、项目监控等服务
 
 
 * ### 连凯软件(北京)有限公司(2016.06 ~ 2017.08)  
