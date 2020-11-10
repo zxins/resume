@@ -12,6 +12,7 @@
 #### 求职方向
 ---
 * 期望职位：Python相关(Web后端、爬虫)
+-
 
 
 #### 技能列表
@@ -24,6 +25,7 @@
 * 熟练运用MySQL、Redis、MongoDB等
 * 熟练运用Linux基础命令、Nginx、Supervisor等
 * 熟悉git代码管理，有良好的代码习惯，遵守pep8规范
+
 
 ##### 移动端：
 * 1年iOS原生开发经验
